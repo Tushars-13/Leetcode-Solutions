@@ -5,7 +5,7 @@ Leetcode Solutions for those problems that I solved :) <br>
 
 | #   | Title                                                                                   | Difficulty | 
 | --- | --------------------------------------------------------------------------------------- | ---------- | 
-| 1 | [Two Sum](https://github.com/Harsh-o4/leetcode-solutions/blob/main/1_two_sum.cpp) |  Easy    | 
+| 1 | [Two Sum](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/1.Two_Sum.py) |  Easy    | 
 | 7 | [Reverse Integer](https://github.com/Harsh-o4/leetcode-solutions/blob/main/7_reverse_integer.cpp) |  Medium    | 
 | 9 | [Palindrome Number](https://github.com/Harsh-o4/leetcode-solutions/blob/main/9_palindrome_number.cpp) |  Easy   | 
 | 28 | [Find the Index of the First Occurrence in a String](https://github.com/Harsh-o4/leetcode-solutions/blob/main/28_index_of%20_first_occurence.cpp) |  Easy   | 
