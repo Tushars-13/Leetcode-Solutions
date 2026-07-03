@@ -1,8 +1,31 @@
-# Leetcode-Solutions
-Leetcode Solutions for those problems that I solved :) <br>
+# 🚀 LeetCode Solutions
 
-<h3>List of questions attempted:</h3>
+A collection of my LeetCode solutions as I continue practicing **Data Structures & Algorithms (DSA)**.
+This repository helps me track my progress and serves as a reference for the problems I've solved.
 
-| # | Title | Difficulty |
-|---|-------|------------|
-|   |       |            |
+## 📋 Problems Solved
+
+| #  | Problem     | Difficulty  | Solution                                                                                        |
+| -- | ----------- | ----------- | ----------------------------------------------------------------------------------------------- |
+| 75 | Sort Colors | 🟡 Medium   | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/75_sort_colors.java) |
+| -- | Bubble Sort | 🟢 Practice | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/bubble_sort.java)    |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+|    |             |             |                                                                                                 |
+
+---
+
+### 🎯 Goal
+
+* Solve LeetCode problems consistently.
+* Improve problem-solving and DSA skills.
+* Maintain clean, well-documented Java solutions.
+
+⭐ Feel free to explore the repository and follow my DSA journey!
