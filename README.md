@@ -17,7 +17,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | -- | Selection Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
 
 ---
-
+ 
 ## 🎯 Goals
 
 - Solve LeetCode problems consistently.
