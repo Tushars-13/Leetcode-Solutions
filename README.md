@@ -5,7 +5,6 @@ A collection of my **LeetCode** and **DSA practice** solutions in Java as I cont
 This repository helps me track my progress and serves as a reference for the problems I've solved.
 
 ---
-
 ## 📋 Problems Solved
 
 | # | Problem | Difficulty | Solution | Platform |
@@ -16,6 +15,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | -- | Bubble Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
 | -- | Selection Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
 | -- | Count Words in a String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
+| -- | Palindrome String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
  
 ## 🎯 Goals
 
