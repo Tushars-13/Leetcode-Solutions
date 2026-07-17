@@ -13,10 +13,9 @@ This repository helps me track my progress and serves as a reference for the pro
 | 75 | Sort Colors | 🟡 Medium | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/75_sort_colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
 | 2089 | Find Target Indices After Sorting Array | 🟢 Easy | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/2089_Find_Target_Indices_After_Sorting_Array.java) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 | 136 | Single Number | 🟢 Easy | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/136_Single_Number.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
-| -- | Bubble Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
+| -- | Bubble Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
 | -- | Selection Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
-
----
+| -- | Count Words in a String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
  
 ## 🎯 Goals
 
