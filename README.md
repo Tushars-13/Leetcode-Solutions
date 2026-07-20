@@ -17,6 +17,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 125 | Valid Palindrome | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/125_Valid_Palindrome.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | 136 | Single Number | 🟢 Easy | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/136_Single_Number.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Reverse_Words_in_a_String.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 344 | Reverse String | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/344_Reverse_String.py) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
 | 415 | Add Strings | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/415_Add_Strings.py) | [LeetCode](https://leetcode.com/problems/add-strings/) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/443_String_Compression.py) | [LeetCode](https://leetcode.com/problems/string-compression/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/977_%20Squares_of_a_Sorted_Array.py) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
@@ -25,6 +26,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | -- | Selection Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
 | -- | Count Words in a String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
 | -- | Palindrome String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
+
 
 ---
 
