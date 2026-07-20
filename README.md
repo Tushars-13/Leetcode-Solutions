@@ -12,6 +12,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 1 | Two Sum | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/1.Two_Sum.py) | [LeetCode](https://leetcode.com/problems/two-sum/) |
 | 11 | Container With Most Water | 🟡 Medium | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/11_Container_with_most_water.py) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) |
 | 14 | Longest Common Prefix | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/14_Longest_Common_Prefix.py) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
+| 58 | Length of Last Word | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/58_Length_of_Last_Word.py) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) |
 | 67 | Add Binary | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/67_Add_Binary.py) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/75_sort_colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
 | 125 | Valid Palindrome | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/125_Valid_Palindrome.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
