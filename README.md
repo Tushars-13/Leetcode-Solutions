@@ -20,6 +20,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 344 | Reverse String | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/344_Reverse_String.py) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
 | 415 | Add Strings | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/415_Add_Strings.py) | [LeetCode](https://leetcode.com/problems/add-strings/) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/443_String_Compression.py) | [LeetCode](https://leetcode.com/problems/string-compression/) |
+| 680 | Valid Palindrome II | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/680_Valid_Palindrome_II.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/977_%20Squares_of_a_Sorted_Array.py) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 2089 | Find Target Indices After Sorting Array | 🟢 Easy | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/2089_Find_Target_Indices_After_Sorting_Array.java) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 | -- | Bubble Sort | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
