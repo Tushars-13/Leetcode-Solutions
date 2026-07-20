@@ -14,6 +14,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 11 | Container With Most Water | 🟡 Medium | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/11_Container_with_most_water.py) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) |
 | 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/67_Add_Binary.py) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/75_sort_colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
+| 125 | Valid Palindrome | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/125_Valid_Palindrome.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | 136 | Single Number | 🟢 Easy | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/136_Single_Number.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Reverse_Words_in_a_String.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
 | 415 | Add Strings | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/415_Add_Strings.py) | [LeetCode](https://leetcode.com/problems/add-strings/) |
