@@ -22,6 +22,8 @@ This repository helps me track my progress and serves as a reference for the pro
 | -- | Count Words in a String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
 | -- | Palindrome String | 🔵 Practice | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/443_String_Compression.py) | [LeetCode](https://leetcode.com/problems/string-compression/) |
+| 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/67_Add_Binary.py) | [LeetCode](https://leetcode.com/problems/add-binary/) |
+
 ---
 
 ## 🎯 Goals
