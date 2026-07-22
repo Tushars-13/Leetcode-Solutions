@@ -19,6 +19,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 136 | Single Number | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/136_Single_Number.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 151 | Reverse Words in a String | 🟡 Medium | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Reverse_Words_in_a_String.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
 | 344 | Reverse String | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/344_Reverse_String.py) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
+| 345 | Reverse Vowels of a String | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/345_Reverse_Vowels_of_a_String.py) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 392 | Is Subsequence | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/392_Is_Subsequence.py) | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
 | 415 | Add Strings | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/415_Add_Strings.py) | [LeetCode](https://leetcode.com/problems/add-strings/) |
 | 443 | String Compression | 🟡 Medium | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/443_String_Compression.py) | [LeetCode](https://leetcode.com/problems/string-compression/) |
