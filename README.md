@@ -1,11 +1,12 @@
-# 🚀 LeetCode Solutions
+# 🚀 DSA Solutions
 
-A collection of my **LeetCode** and **DSA practice** solutions in Java as I continue improving my problem-solving skills.
+A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions as I continue improving my problem-solving skills.
 
 This repository helps me track my progress and serves as a reference for the problems I've solved.
 
 ---
-## 📋 Problems Solved
+
+# 📘 LeetCode Solutions
 
 | # | Problem | Difficulty | Language | Solution | Platform |
 |---|---------|------------|----------|----------|----------|
@@ -28,23 +29,40 @@ This repository helps me track my progress and serves as a reference for the pro
 | 1108 | Defanging an IP Address | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/1108_Defanging_an_IP_Address.py) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) |
 | 1768 | Merge Strings Alternately | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/1768_Merge_Strings_Alternately.py) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) |
 | 2089 | Find Target Indices After Sorting Array | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/2089_Find_Target_Indices_After_Sorting_Array.java) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
-| -- | Bubble Sort | 🔵 Practice | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
-| -- | Selection Sort | 🔵 Practice | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
-| -- | Count Words in a String | 🔵 Practice | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
-| -- | Palindrome String | 🔵 Practice | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
-
-
-
 
 ---
 
-## 🎯 Goals
+# 📙 GeeksforGeeks Solutions
+
+| # | Problem | Category | Language | Solution | Platform |
+|---|---------|----------|----------|----------|----------|
+| -- | Bubble Sort | 🔵 Sorting | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
+| -- | Selection Sort | 🔵 Sorting | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
+| -- | Count Words in a String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
+| -- | Palindrome String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
+| -- | Sum of Numbers in String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/GFG_Sum_of_Numbers_in_String.java) | [GFG](https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1) |
+
+---
+
+# 🎯 Goals
 
 - Solve LeetCode problems consistently.
-- Strengthen Data Structures & Algorithms (DSA) concepts.
-- Write clean, optimized, and well-documented Java solutions.
+- Practice DSA concepts through GeeksforGeeks.
+- Strengthen Data Structures & Algorithms (DSA).
+- Write clean, optimized, and well-documented solutions in **Java** and **Python**.
 - Track my progress and improve problem-solving skills over time.
 
 ---
 
-⭐ If you find this repository helpful, feel free to explore it and follow my DSA journey!
+## 🛠️ Languages & Tools
+
+- ☕ Java
+- 🐍 Python
+- 📝 Git & GitHub
+- 💻 VS Code
+- 🧩 LeetCode
+- 📚 GeeksforGeeks
+
+---
+
+⭐ **If you find this repository helpful, feel free to explore it and follow my DSA journey!**
