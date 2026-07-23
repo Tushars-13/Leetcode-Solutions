@@ -24,6 +24,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 392 | Is Subsequence | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/392_Is_Subsequence.py) | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
 | 415 | Add Strings | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/415_Add_Strings.py) | [LeetCode](https://leetcode.com/problems/add-strings/) |
 | 443 | String Compression | 🟡 Medium | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/443_String_Compression.py) | [LeetCode](https://leetcode.com/problems/string-compression/) |
+| 541 | Reverse String II | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/541_Reverse_String_II.py) | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) |
 | 680 | Valid Palindrome II | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/680_Valid_Palindrome_II.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/977_%20Squares_of_a_Sorted_Array.py) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 1108 | Defanging an IP Address | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/1108_Defanging_an_IP_Address.py) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) |
