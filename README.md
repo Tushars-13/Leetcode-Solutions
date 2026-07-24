@@ -39,6 +39,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 1108 | Defanging an IP Address | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/1108_Defanging_an_IP_Address.py) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) |
 | 1768 | Merge Strings Alternately | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/1768_Merge_Strings_Alternately.py) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) |
 | 2089 | Find Target Indices After Sorting Array | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/2089_Find_Target_Indices_After_Sorting_Array.java) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
+| 9999 | Test Problem | 🟢 Easy | ☕ Java | Test | Test |
 
 
 ---
