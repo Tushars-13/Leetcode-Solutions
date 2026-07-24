@@ -6,6 +6,16 @@ This repository helps me track my progress and serves as a reference for the pro
 
 ---
 
+## 📈 Progress
+
+- ✅ Total Problems Solved: **0**
+- 🟠 LeetCode: **0**
+- 🟢 GeeksforGeeks: **0**
+
+---
+
+# 📘 LeetCode Solutions
+
 # 📘 LeetCode Solutions
 
 | # | Problem | Difficulty | Language | Solution | Platform |
