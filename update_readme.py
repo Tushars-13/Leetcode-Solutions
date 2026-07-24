@@ -2,12 +2,13 @@ import re
 from pathlib import Path
 
 readme = Path("README.md")
-
 content = readme.read_text(encoding="utf-8")
 
-# Extract the LeetCode Solutions table
+# -----------------------------
+# Count LeetCode Problems
+# -----------------------------
 leetcode_match = re.search(
-    r"## 📘 LeetCode Solutions(.*?)(?=\n## |\Z)",
+    r"## 📘 LeetCode Solutions(.*?)(?=\n#{1,6}\s|\Z)",
     content,
     re.S,
 )
@@ -17,9 +18,11 @@ if leetcode_match:
     table = leetcode_match.group(1)
     leetcode_count = len(re.findall(r"^\|\s*\d+\s*\|", table, re.M))
 
-# Extract the GFG Solutions table
+# -----------------------------
+# Count GFG Problems
+# -----------------------------
 gfg_match = re.search(
-    r"## 📙 GeeksforGeeks Solutions(.*?)(?=\n## |\Z)",
+    r"## 📙 GeeksforGeeks Solutions(.*?)(?=\n#{1,6}\s|\Z)",
     content,
     re.S,
 )
@@ -38,9 +41,11 @@ new_progress = f"""## 📈 Progress
 - 🟢 GeeksforGeeks: **{gfg_count}**
 """
 
-# Replace the Progress section
+# -----------------------------
+# Replace Progress Section
+# -----------------------------
 content = re.sub(
-    r"## 📈 Progress.*?(?=\n## |\Z)",
+    r"## 📈 Progress.*?(?=\n#{1,6}\s|\Z)",
     new_progress,
     content,
     flags=re.S,
@@ -48,4 +53,4 @@ content = re.sub(
 
 readme.write_text(content, encoding="utf-8")
 
-print("README Progress Updated Successfully!")
+print(f"Updated: Total={total}, LC={leetcode_count}, GFG={gfg_count}")
