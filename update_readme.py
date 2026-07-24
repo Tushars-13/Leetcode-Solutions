@@ -27,7 +27,7 @@ gfg_match = re.search(
 gfg_count = 0
 if gfg_match:
     table = gfg_match.group(1)
-    gfg_count = len(re.findall(r"^\|\s*GFG\s*\|", table, re.M))
+    gfg_count = len(re.findall(r"^\|\s*\d+\s*\|", table, re.M))
 
 total = leetcode_count + gfg_count
 
