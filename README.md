@@ -40,14 +40,11 @@ This repository helps me track my progress and serves as a reference for the pro
 
 | # | Problem | Category | Language | Solution | Platform |
 |---|---------|----------|----------|----------|----------|
-| -- | Bubble Sort | 🔵 Sorting | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
-| -- | Selection Sort | 🔵 Sorting | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
-| -- | Count Words in a String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
-| -- | Palindrome String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
-| -- | Sum of Numbers in String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/GFG_Sum_of_Numbers_in_String.java) | [GFG](https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1) |
-
----
-
+| 1 | Bubble Sort | 🔵 Sorting | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/bubble_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
+| 2 | Selection Sort | 🔵 Sorting | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Selection_sort.java) | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) |
+| 3 | Count Words in a String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Count_Words_in_a_String.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
+| 4 | Palindrome String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Palindrome_string.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
+| 5 | Sum of Numbers in String | 🟣 Strings | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/GFG_Sum_of_Numbers_in_String.java) | [GFG](https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1) |
 # 🎯 Goals
 
 - Solve LeetCode problems consistently.
