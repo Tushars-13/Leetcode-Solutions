@@ -13,35 +13,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Run Script
-        run: |
-          python update_readme.py
+      - name: Update README Counter
+        run: python update_readme.py
 
-      - name: Show Git Status
+      - name: Commit and Push Changes
         run: |
-          echo "========== Git Status =========="
-          git status
-          echo
-          echo "========== Git Diff =========="
-          git diff README.md
-
-      - name: Commit Changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
           if ! git diff --cached --quiet; then
-            echo "Changes detected. Committing..."
-            git commit -m "Auto update README counter"
+            git commit -m "🤖 Auto update README counter"
             git push
           else
-            echo "No changes detected."
+            echo "No README changes detected."
           fi
